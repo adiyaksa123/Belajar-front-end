@@ -4,3 +4,4 @@ Rencana project Web
   *web penjualan kosmetik dan pakaian
 -membuat Web kursus pemograman html css dan javascript
 -membuat web kumpulan game terpopuler 2021
+-membuat latihan video hasil belajar dari udemy
