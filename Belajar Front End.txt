@@ -1,0 +1,4 @@
+Front End 
+- konsisten untuk belajar Front End 3x seminggu
+- membuat project sederhana menggunakan bahasa HTML5 CSS3 dan JavaScript
+- membuat contoh project web dari belajar di udemy 
