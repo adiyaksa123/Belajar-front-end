@@ -1,0 +1,6 @@
+Rencana project Web
+
+-membuat Web promosi penjualan menggunakan Html dan Css
+  *web penjualan kosmetik dan pakaian
+-membuat Web kursus pemograman html css dan javascript
+-membuat web kumpulan game terpopuler 2021
